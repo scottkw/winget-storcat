@@ -1,0 +1,20 @@
+# Temporary files
+*.tmp
+*.temp
+temp/
+
+# Downloaded executables (for hash calculation)
+*.exe
+*.msi
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
